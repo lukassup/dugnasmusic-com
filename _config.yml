@@ -1,5 +1,3 @@
 title: prievarta
 remote_theme: riggraz/no-style-please
-gems: [jekyll-mermaid]
-mermaid:
-  src: https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.9.0/mermaid.min.js
+plugins: [jekyll-spaceship]
