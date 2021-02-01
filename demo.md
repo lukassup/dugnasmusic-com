@@ -8,3 +8,5 @@ pie title Pets adopted by volunteers
     "Cats" : 85
     "Rats" : 15
 </div>
+
+{% include mermaid.html %}
