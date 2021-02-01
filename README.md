@@ -1,1 +1,1 @@
-- {% link sudetis.md %}
+- [sudėtis]({% link sudetis.md %})
