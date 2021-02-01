@@ -1,9 +1,9 @@
 ---
-title: demo
+title: sudėtis
 ---
 
 <pre class="mermaid">
-pie title sudėtis
+pie
     "Mykolas" : 1
     "Ignas" : 1
     "Laimonas" : 1
