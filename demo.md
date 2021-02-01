@@ -3,10 +3,12 @@ title: demo
 ---
 
 <pre class="mermaid">
-pie title Pets adopted by volunteers
-    "Dogs" : 386
-    "Cats" : 85
-    "Rats" : 15
+pie title sudėtis
+    "Mykolas" : 1
+    "Ignas" : 1
+    "Laimonas" : 1
+    "Laurynas": 1
+    "Lukas": 1
 </pre>
 
 {% include mermaid.html %}
