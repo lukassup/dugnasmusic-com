@@ -1,3 +1,5 @@
 title: prievarta
 remote_theme: riggraz/no-style-please
 plugins: [jekyll-spaceship]
+jekyll-spaceship:
+  processors: [mermaid-processor]
