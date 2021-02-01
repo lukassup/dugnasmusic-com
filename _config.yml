@@ -1,2 +1,3 @@
 title: prievarta
 remote_theme: riggraz/no-style-please
+gems: [jekyll-mermaid]
