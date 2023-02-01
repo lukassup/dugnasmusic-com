@@ -1,2 +1,9 @@
-title: dugnas
 remote_theme: riggraz/no-style-please
+
+title: dugnas
+author: dugnas
+url: https://dugnasmusic.com
+
+theme_config:
+  appearance: dark
+
